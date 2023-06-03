@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(247, 255, 246) !important;
+}
+
+
+
+.banner banner-title {
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+}
+
+.cyl {
+    text-align: center;
+}
+
+.rectangle-input{
+    border-radius: 0;
+}
+
+.qualities {
+    background-color: white;
+}
+
+.qualities h4{
+    color: rgb(16, 172, 16);
+}
+
+
+.form-group{
+    text-align: left;
+    
+}
+
+.contact{
+    border: none !important;
+    background-color:  rgb(247, 255, 246) !important;
+}
+
+.form input{
+	border: 2px solid;
+}
+
+.contactUs label{
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background-color: white;
+}
+
+
+.testimonialhead{
+    text-align: left;
+}
+
+
+
